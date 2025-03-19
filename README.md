@@ -4,10 +4,7 @@
 
 Projeyi öncelikle forklayın ve clone edin.
 Daha sonra projeyi IntellijIDEA kullanarak açınız. README.md dosyasını dikkatli bir şekilde okuyarak istenenleri yapmaya çalışın.
-<<<<<<< HEAD
 
-=======
->>>>>>> 92d066abcce660c834a5b9d55751c3337ee90c47
 
 ### Hedeflerimiz:
 
